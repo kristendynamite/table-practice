@@ -1,0 +1,32 @@
+td, th {
+  border: 1px solid #1d96b2;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+thead {
+  background: #1d96b2;
+  color: white;
+
+}
+
+table {
+  border-spacing: 0.5rem;
+}
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+tbody > :nth-child(2n) {
+  background: #efefee;
+}
+
+tfoot td {
+  border: none;
+}
